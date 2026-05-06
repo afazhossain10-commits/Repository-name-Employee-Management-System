@@ -1,0 +1,3 @@
+Total Employees: 3
+Total Salary: 165000
+Average Salary: 55000
