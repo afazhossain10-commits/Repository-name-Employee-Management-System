@@ -1,0 +1,6 @@
+Employee Management System Documentation
+
+- Uses ArrayList and HashMap
+- CRUD operations implemented
+- File handling using text file
+- Data stored in CSV format
